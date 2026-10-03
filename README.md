@@ -4,7 +4,6 @@
 
 ![Agent Skill](https://img.shields.io/badge/Agent_Skill-SKILL.md-6C47FF?style=flat-square)
 ![Currency](https://img.shields.io/badge/Prices-INR-2EA44F?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
 Trip Trio is an agent skill (a `SKILL.md` plus two reference files). Ask for a trip in plain language and it checks flight prices on Skyscanner India, finds budget hotels on Booking.com, adds the top attractions, and wraps everything in a budget comparison and a quick travel summary. It was built and demoed as a BlueAI skill, and it was first named Travel Planner.
 
