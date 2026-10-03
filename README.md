@@ -95,7 +95,3 @@ trip-trio/
 ## Credits
 
 Built by [Umang Srivastava](https://www.linkedin.com/in/umang1617/) with Ayush.
-
-## License
-
-[MIT](LICENSE)
